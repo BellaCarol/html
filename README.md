@@ -6,15 +6,7 @@
 
 <h1 style="color:blue;">9 reasons to visit Guizhou, China's next big travel destination</h1>
 <small> By Maggie Hiufu Wong</small>
-<style> 
-body {
-    background-image: url("img_tree.png");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
-}
-</style>
+
 <p>One of China's fastest-growing provinces, Guizhou has been steadily upgrading its offerings and is now one of the most promising travel destinations in the country.</p>
 
 
