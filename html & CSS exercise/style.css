@@ -1,0 +1,134 @@
+body {
+  
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #FFF;
+  text-align: center; 
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 24px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: 70%;
+}
+
+h1,
+h2 {
+  font-family: Georgia;
+}
+
+p {
+  color: AliceBlue;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+}
+
+.byline {
+  font-family: Helvetica;
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.caption {
+  display: block;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  opacity: 0.75;
+  background-color: white;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 35%;
+  
+}
+
+.content {
+  padding: 40px;
+}
+
+.image {
+  background-image: url("https://cms.qz.com/wp-content/uploads/2018/08/el-paso-pipes1.png?w=1600&h=1209&strip=all&quality=75");
+  background-size: cover;
+  background-position: center;
+  height: 1000px;
+}
+
+.writer-img {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 50px;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
+
+}
+
+a:hover {
+
+ color: yellow;
+
+}
+
+nav {
+
+background-color: lightblue;
+
+height: 50px;
+
+}
+
+
+nav ul li {
+
+list-style-type: none;
+width: 150px;
+float: left;
+text-align: center;
+padding: 0;
+margin: 0;
+font-weight: bold;
+}
+ 
+
+li a {
+
+text-decoration: none;
+color: white;
+line-height: 50px;
+display: block;
+
+}
+
+li a:hover {
+
+background-color: purple;
+color: yellow;
+
+}
